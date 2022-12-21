@@ -1,1 +1,1 @@
-# plannig-pocker-backend
+# planning-pocker-backend
